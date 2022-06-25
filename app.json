@@ -4,8 +4,8 @@
     "keywords": ["vmvltrshso"],
     "env": {
          "PROTOCOL": {
-            "description": "Xray五合一协议共存：vless-ws、vmess-ws、trojan-ws、shadowsocks-ws、socks5-ws",
-            "value": "path路径:（斜杠/）+（自定义UUID）+（减号-）+（对应协议开头两小写字母：vl或vm或tr或sh或so）",
+            "description": "path路径说明:（斜杠/）+（自定义UUID）+（减号-）+（对应协议开头两小写字母：vl或vm或tr或sh或so）",
+            "value": "相关配置说明：http://ygkkk.blogspot.com/2022/05/herokuxrayvless-wsvmess-wstrojan-ws.html",
              "required": true
         },
         "SSencryption": {
