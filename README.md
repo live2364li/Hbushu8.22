@@ -1,7 +1,6 @@
 ### 关注甬哥项目https://gitlab.com/rwkgyg/
 
-### 请下载以上代码，使用Github进行代码托管并连接heroku
-![c14a9fd3dfe0361393dcc7cd693cc36](https://user-images.githubusercontent.com/107276912/173172932-142f6c9a-7f7f-424b-a178-aa43772a7511.png)
+### 使用Github进行代码托管并连接heroku [gitlab项目通过https方式上传到github项目的流程图](https://ygkkk.blogspot.com/2022/06/gitlabhttpsgithub.html)
 
 
 ### workers反代与pages反代及自定义域，配置文件信息等相关操作拓展教程，请关注：[博客视频教程](https://ygkkk.blogspot.com/2022/05/heroku-cloudflare-workers-pages.html)
